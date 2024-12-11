@@ -17,4 +17,5 @@
 ### Pra entrar em contato comigo 
  
 <div>
+https://wa.me/5581973132442
 </div>
