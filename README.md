@@ -7,6 +7,7 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 </div>
     
 <div style="display: inline_block"><br>
+ https://camo.githubusercontent.com/2178be5bfd736a5665751a3ad7976ca231c86aa99e210ec09831fa5c41ceef6e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a6176617363726970742c6769742c7265616374
 <svg width="273" height="48" viewBox="0 0 1456 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
