@@ -7,10 +7,10 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 </div>
  
 <div style="display: inline_block"><br>
-![pngwing com](https://github.com/user-attachments/assets/7ae775fc-c97c-46b5-94b0-d6ccab728cb3)
 
 </div>
- 
+ ![pngwing com](https://github.com/user-attachments/assets/646fba9e-63e5-41fe-8110-e4942f9d325d)
+
 <br>
  
 ### Pra entrar em contato comigo 
