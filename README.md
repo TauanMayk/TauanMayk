@@ -5,6 +5,18 @@ Bem-vindo(a) ao perfil de Tauan Mayk
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TauanMayk&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauanMayk&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
+
+<div style="display: inline_block"><br>
+ ## Sobre mim
+ 
+<h3>Tauan Mayk, Desenvolvedor Full-Stack em treinamento, gosto de aprender novas tecnologias e desenvolver projetos.
+</h3>
+
+<p>
+Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre busco aprender coisas novas e fazer projetos que me façam evoluir e melhorar minhas habilidades. 
+</p>
+
+</div>
  
 <div style="display: inline_block"><br>
  <h3>👨‍💻 Linguagens Utilizadas nos meus Projetos :</h3>
