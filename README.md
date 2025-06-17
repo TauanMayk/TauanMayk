@@ -7,15 +7,12 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 </div>
 
 <div style="display: inline_block"><br>
-### Sobre mim
 <h2>Tauan Mayk, Desenvolvedor Full-Stack em treinamento.
 </h2>
-
 <p>
 Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre busco aprender coisas novas e fazer projetos que me façam evoluir e melhorar minhas habilidades. 
 </p>
 </div>
- 
 <div style="display: inline_block"><br>
  <h3>👨‍💻 Linguagens Utilizadas nos meus Projetos :</h3>
  
