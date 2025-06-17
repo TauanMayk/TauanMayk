@@ -18,14 +18,10 @@ Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre 
  
 <img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,python,tailwindcss,prisma,postgresql,docker" />
 </div>
- 
 <br>
- 
 ### Pra entrar em contato comigo 
 
-<div> 
-  <a href="https://www.instagram.com/tauanmayk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div>
   <a href="https://wa.me/5581973132442" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/tauan-mayk-32673b297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
