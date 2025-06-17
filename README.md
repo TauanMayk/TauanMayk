@@ -9,7 +9,7 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 <div style="display: inline_block"><br>
  <h3>👨‍💻 Linguagens Utilizadas nos meus Projetos :</h3>
  
-<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,python,tailwindcss,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,python,tailwindcss,prisma,postgresql,docker" />
 </div>
  
 <br>
