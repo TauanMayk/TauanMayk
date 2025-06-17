@@ -7,7 +7,7 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 </div>
  
 <div style="display: inline_block"><br>
-<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript" />
+<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,python,tailwindcss,docker" />
 </div>
  
 <br>
