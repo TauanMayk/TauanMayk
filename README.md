@@ -7,7 +7,7 @@ Bem-vindo(a) ao perfil de Tauan Mayk
 </div>
 
 <div style="display: inline_block"><br>
- ## Sobre mim
+### Sobre mim
 <h2>Tauan Mayk, Desenvolvedor Full-Stack em treinamento.
 </h2>
 
