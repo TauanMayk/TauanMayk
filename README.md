@@ -18,7 +18,9 @@ Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre 
  
 <img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,python,tailwindcss,prisma,postgresql,docker" />
 </div>
+
 <br>
+
 ### Pra entrar em contato comigo 
 
 <div>
