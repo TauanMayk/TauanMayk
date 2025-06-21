@@ -21,7 +21,7 @@ Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre 
 
 <br>
 
-### Pra entrar em contato comigo 
+### Pra entrar em contato comigo :
 
 <div>
   <a href="https://wa.me/5581973132442" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
