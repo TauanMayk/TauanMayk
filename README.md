@@ -16,7 +16,7 @@ Estou criando projetos e sites para me tornar um desenvolvedor completo, sempre 
 <div style="display: inline_block"><br>
  <h3>👨‍💻 Linguagens Utilizadas nos meus Projetos :</h3>
  
-<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,react,typescript,tailwindcss,prisma,postgresql,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react,typescript,tailwindcss,nodejs,prisma,postgresql,docker" />
 </div>
 
 <br>
