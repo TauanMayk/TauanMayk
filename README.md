@@ -4,6 +4,8 @@ Bem-vindo(a) ao perfil de Tauan Mayk
    <a href="https://github.com/TauanMayk">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TauanMayk&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauanMayk&layout=compact&langs_count=6&theme=highcontrast"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=TauanMayk&row=1&theme=highcontrast"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TauanMayk&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
 </div>
 
 <div style="display: inline_block"><br>
